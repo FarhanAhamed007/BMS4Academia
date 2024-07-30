@@ -19,3 +19,11 @@
 -> Arduino IDE compatible     
 -> 1x Buzzer and 2x LED Indication (Programmable)
 
+## PCB Sections
+![image](https://github.com/user-attachments/assets/6132e1d7-9d17-4648-bdf1-d3929a5cff15)
+
+## PCB Connectors
+![image](https://github.com/user-attachments/assets/63c6bea4-bab2-43dd-9d17-4d7e057aba7d)
+
+
+
