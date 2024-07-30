@@ -2,7 +2,7 @@
 ## Design Language   
 -> Multi-purpose (Use for Low voltage and High voltage systems)    
 -> Simple design (2-Layer board)    
--> Ease of use, wide community and powerful Microcontroller      
+-> Ease of use, wide community support and powerful Microcontroller      
 -> Isolation
 
 ## Features     
