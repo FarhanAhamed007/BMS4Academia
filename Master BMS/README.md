@@ -16,5 +16,6 @@
 -> 1x CAN (Isolated) and 1x RS485 (Isolated)     
 -> 1x UART and 1x SLEEP      
 -> 1x I2C and 1x SPI (either SPI or Iso-SPI)      
--> Arduino IDE compatible
+-> Arduino IDE compatible     
+-> 1x Buzzer and 2x LED Indication (Programmable)
 
