@@ -1,0 +1,20 @@
+S.No,Reference,Value,Footprint,Mouser,Qty
+1,"C1-C8, C12, C13, C17-C20",10nF,Capacitor_SMD:C_0603_1608Metric,https://www.mouser.in/ProductDetail/Murata-Electronics/GCM188R72A103KA37J?qs=XuOgWozpmAS9MToLIJ09hw%3D%3D,14
+2,C9-C11,1uF,Capacitor_SMD:C_0603_1608Metric,https://www.mouser.in/ProductDetail/TDK/CGA3E1X5R1C105K080AC?qs=xLDY6iXSiQY64eaD0ZTXHg%3D%3D,3
+3,"C14-C16, C21",0.1uF,Capacitor_SMD:C_0603_1608Metric,https://www.mouser.in/ProductDetail/Samsung-Electro-Mechanics/CL10B104KA85PNC?qs=xZ%2FP%252Ba9zWqabsWCtlKJ0Xw%3D%3D,4
+4,D1-D7,LED,LED_SMD:LED_0603_1608Metric,https://www.mouser.in/ProductDetail/Wurth-Elektronik/150060RS75000?qs=LlUlMxKIyB3QnmZ3fw%2FVCA%3D%3D,7
+5,D8-D13,MBR0520,Diode_SMD:D_SOD-123,https://www.mouser.in/ProductDetail/Micro-Commercial-Components-MCC/MBR0520L-TP?qs=J4%252BvTxtW289z%2FynXXxISdw%3D%3D,6
+6,J1,Voltage harness,Connector_JST:JST_XH_S7B-XH-A-1_1x07_P2.50mm_Horizontal,https://www.digikey.in/en/products/detail/jst-sales-america-inc/S7B-XH-A/1651038,1
+7,"J2, J5, J6",Conn_01x02_Socket,Connector_JST:JST_XH_S2B-XH-A-1_1x02_P2.50mm_Horizontal,https://www.digikey.in/en/products/detail/jst-sales-america-inc/S2B-XH-A-1/9961922,3
+8,J3,Conn_01x04_Socket,Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal,https://www.mouser.in/ProductDetail/Molex/53048-0410?qs=359VwiUTsp2msj5Tobchuw%3D%3D,1
+9,J4,Conn_01x08_Socket,61200821721:61200821721,https://www.mouser.in/ProductDetail/Wurth-Elektronik/61200821721?qs=PhR8RmCirEb56BXUsQNR%2FQ%3D%3D,1
+10,Q1,FCX491QTA,Package_TO_SOT_SMD:SOT-89-3,https://www.mouser.in/ProductDetail/Diodes-Incorporated/FCX491QTA?qs=u16ybLDytRbbtrTmReU6XA%3D%3D,1
+11,"R1, R9, R39",0R,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,https://www.mouser.in/ProductDetail/Vishay-Dale/RCC06030000Z0EA?qs=GedFDFLaBXGafTcDIEa6hQ%3D%3D,3
+12,R2-R8,220R,Resistor_SMD:R_0603_1608Metric,https://www.mouser.in/ProductDetail/Panasonic/ERJ-PA3F2200V?qs=BzJM0faLVqXVFpMbvWqlzQ%3D%3D,7
+13,R10-R16,15R 2512,Resistor_SMD:R_2512_6332Metric,https://www.mouser.in/ProductDetail/Bourns/CR2512-FX-15R0ELF?qs=LzTMQcCtZ7sBeA1dGxVDgQ%3D%3D,7
+14,R17-R24,100R 1%,Resistor_SMD:R_0603_1608Metric,https://www.mouser.in/ProductDetail/Panasonic/ERJ-PA3F1000V?qs=sGAEpiMZZMtlubZbdhIBIL24R7XL4VFWuWjJwK1uHL8%3D,8
+15,"R25, R26, R31-R33, R37",1K,Resistor_SMD:R_0603_1608Metric,https://www.mouser.in/ProductDetail/Vishay-Dale/RCS060349R9FKEA?qs=sGAEpiMZZMtlubZbdhIBIOTSrQvmFtiZ%2FMh8k2KKtzI%3D,2
+16,R27-R30,49.9R,Resistor_SMD:R_0603_1608Metric,https://www.mouser.in/ProductDetail/Panasonic/ERJ-PA3F1001V?qs=sGAEpiMZZMtlubZbdhIBIEk08ppm7bLPCsocysv3bJ4%3D,4
+17,"R34-R36, R38",10K,Resistor_SMD:R_0603_1608Metric,https://www.mouser.in/ProductDetail/Panasonic/ERJ-PA3F1002V?qs=BzJM0faLVqWQDmJ9zpwcmw%3D%3D,4
+18,T1,HM2100NL,HM2100NL:SOP254P1493X345-10N,https://www.mouser.in/ProductDetail/Pulse-Electronics/HM2100NLT?qs=lYGu3FyN48d%2FM7DDmrViPA%3D%3D,1
+19,U1,LTC6810HG-1-3ZZPBF,LTC6810:05-08-1754_ADI,https://www.mouser.in/ProductDetail/Analog-Devices/LTC6810HG-13ZZPBF?qs=byeeYqUIh0PWO%252B24TZQ4ZA%3D%3D,1
