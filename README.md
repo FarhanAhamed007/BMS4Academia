@@ -7,7 +7,7 @@ An educational Battery Management System (BMS) for academia: designed for studen
 #### Developed for coherence and scalability 
 
 ### Key Features
--> Simple and Efficient Controller (ESP32S3)    
+-> Simple and community friendly Controller (ESP32S3)    
 -> Master-Slave Architecture     
 -> SPI and iso-SPI       
 -> 3s to 100s configuration      
