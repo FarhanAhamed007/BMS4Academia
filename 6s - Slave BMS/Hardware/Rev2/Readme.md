@@ -1,6 +1,6 @@
 # 6s - Slave BMS      
 ## Design Language   
--> Scalable 
+-> Scalable       
 -> Simple design (2-Layer board)           
 -> dedicated current sensing port      
 -> Small in size
