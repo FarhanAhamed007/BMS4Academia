@@ -20,10 +20,13 @@
 -> 1x Buzzer and 2x LED Indication (Programmable)
 
 ## PCB Sections
-![image](https://github.com/user-attachments/assets/6132e1d7-9d17-4648-bdf1-d3929a5cff15)
+![image](https://github.com/user-attachments/assets/21a42f9e-2cea-4012-9143-f86ebb48a011)
+![image](https://github.com/user-attachments/assets/7f9b6e17-52bf-4f39-bfce-76528c046142)
 
 ## PCB Connectors
-![image](https://github.com/user-attachments/assets/63c6bea4-bab2-43dd-9d17-4d7e057aba7d)
+![image](https://github.com/user-attachments/assets/9f681672-3160-4f7b-bed0-1c904ec0bebe)
 
+## SPI/ISO-SPI Configurations
+![image](https://github.com/user-attachments/assets/68dd86f3-825a-4708-ad1a-a3b6e49f688d)
 
 
