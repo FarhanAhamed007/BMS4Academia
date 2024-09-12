@@ -3,7 +3,7 @@
 -> Scalable       
 -> Simple design (2-Layer board)           
 -> dedicated current sensing port      
--> Small in size
+-> Small in size (51mm x 76mm)
 
 ## Features     
 -> Analog Devices AFE: LTC6810         
