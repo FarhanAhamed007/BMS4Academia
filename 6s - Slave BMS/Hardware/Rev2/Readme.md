@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/74bb363d-d833-4866-b8bc-490f66f1b8a5)# 6s - Slave BMS      
+# 6s - Slave BMS      
 ## Design Language   
 -> Scalable 
 -> Simple design (2-Layer board)           
