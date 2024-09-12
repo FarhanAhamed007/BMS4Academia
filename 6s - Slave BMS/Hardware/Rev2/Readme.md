@@ -9,7 +9,7 @@
 -> Analog Devices AFE: LTC6810         
 -> 0 - 5V voltage measurement of cells (NMC, LFP, LTO, Na-ion, Zn-air etc...)
 -> SPI or Iso-SPI configurable          
--> External Power connector (Powering IC from external source instead of battery, for cells with low voltages like Zn-air)
+-> External Power connector (Powering IC from external source instead of battery, useful for cells with low voltages like Zn-air)
 -> 3s to 100s      
 -> 4x temperature sensing (thermistor based)         
                       (or)              
