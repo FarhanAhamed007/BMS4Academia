@@ -1,4 +1,4 @@
-# 6s - Slave BMS      
+![image](https://github.com/user-attachments/assets/74bb363d-d833-4866-b8bc-490f66f1b8a5)# 6s - Slave BMS      
 ## Design Language   
 -> Scalable 
 -> Simple design (2-Layer board)           
@@ -17,10 +17,13 @@
 -> Interface with any microcontroller (via SPI upto 6s)        
 -> Configurable for temperature measurement via 10K thermistor or ADC for current measurement.         
 
-## PCB Sections
+## PCB Sections & Connectors       
+![image](https://github.com/user-attachments/assets/8ae48af9-9fad-4699-90f0-e71d09dea454)        
 
+![image](https://github.com/user-attachments/assets/9032f799-3414-4744-aa52-934e92501624)
 
-## PCB Connectors
+## PCB Configurations      
+![image](https://github.com/user-attachments/assets/3940d4b3-3a8a-4547-bb9a-3853c64f3ef7)
 
 
 
