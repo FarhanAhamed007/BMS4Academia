@@ -15,3 +15,5 @@ An educational Battery Management System (BMS) for academia: designed for studen
 -> CAN and RS485 Interface
 
 ![image](https://github.com/user-attachments/assets/fa9e911e-b131-46e5-954b-f9682564ddad)
+
+I would like to express my gratitude to Dr. Kaushal Jha, CEO of my center and co-guide, my guide Prof. Shankar Ram, and my mentor Dr. Sushant Mutagekar for their continuous support. I also extend my thanks to the **Center for Excellence in Energy and Telecommunication (CEET)** for providing the opportunity to develop this work. I am grateful to my ~~team~~ fam and colleagues for their invaluable assistance and support throughout this project.
