@@ -9,10 +9,11 @@ An educational Battery Management System (BMS) for academia: designed for studen
 ### Key Features
 -> Simple and community friendly Controller (ESP32S3)    
 -> Master-Slave Architecture     
--> SPI and iso-SPI       
--> 3s to 100s configuration      
--> Contactor Control (12V/24V upto 3A)       
--> CAN and RS485 Interface
+-> SPI and iso-SPI          
+-> 3s to 100s configuration          
+-> Cell balancing 
+-> Contactor Control (12V/24V upto 3A) & Feedback
+-> CAN, RS485 and I2C Interface
 
 ![image](https://github.com/user-attachments/assets/fa9e911e-b131-46e5-954b-f9682564ddad)
 
