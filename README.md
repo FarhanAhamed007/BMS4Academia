@@ -11,8 +11,8 @@ An educational Battery Management System (BMS) for academia: designed for studen
 -> Master-Slave Architecture     
 -> SPI and iso-SPI          
 -> 3s to 100s configuration          
--> Cell balancing 
--> Contactor Control (12V/24V upto 3A) & Feedback
+-> Cell balancing      
+-> Contactor Control (12V/24V upto 3A) & Feedback      
 -> CAN, RS485 and I2C Interface
 
 ![image](https://github.com/user-attachments/assets/fa9e911e-b131-46e5-954b-f9682564ddad)
