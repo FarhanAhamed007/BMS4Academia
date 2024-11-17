@@ -16,6 +16,9 @@
 -> 8x temperature sensing (thermistor based) & 1x current sensing (AUX)       
 -> Short circuit protection and wake-up interrupt by hardware design 
 
+## PCB isometric
+![image](https://github.com/user-attachments/assets/de3d8340-fca5-4524-a7b8-aabf1d22c7af)
+
 ## PCB Sections & Connectors
 ![image](https://github.com/user-attachments/assets/b212bcf6-f6ea-4189-9a01-9d58b8ea0170)
 
