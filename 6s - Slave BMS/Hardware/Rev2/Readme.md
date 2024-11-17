@@ -8,7 +8,7 @@
 ## Features     
 -> Analog Devices AFE: LTC6810         
 -> 0 - 5V voltage measurement of cells (NMC, LFP, LTO, Na-ion, Zn-air etc...)        
--> Cell balancing up to 150mA per cell. 
+-> Cell balancing up to 150mA per cell (internal balancing)       
 -> SPI or Iso-SPI configurable          
 -> External Power connector (Powering IC from external source instead of battery, useful for cells with low voltages like Zn-air)      
 -> 3s to 100s           
