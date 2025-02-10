@@ -1,5 +1,7 @@
 # BMS4Academia
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14846626.svg)](https://doi.org/10.5281/zenodo.14846626)
+
 An educational Battery Management System (BMS) for academia: designed for students, research scholars, and hobbyist engaged in battery algorithm studies, enabling real-time testing of their algorithms and logics.
 
 ### Motive – To support research community with a habitat for testing of battery algorithms on battery packs
