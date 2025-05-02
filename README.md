@@ -19,4 +19,6 @@ An educational Battery Management System (BMS) for academia: designed for studen
 
 ![image](https://github.com/user-attachments/assets/783739bd-4706-4405-a38a-a649b6d498d9)
 
-I would like to express my gratitude to Dr. Kaushal Jha, CEO of my center and co-guide, my guide Prof. Shankar Ram, and my mentor Dr. Sushant Mutagekar for their continuous support. I also extend my thanks to the **Center for Excellence in Energy and Telecommunication (CEET)** for providing the opportunity to develop this work. I am grateful to my ~~team~~ fam and colleagues for their invaluable assistance and support throughout this project.
+I thank Rahul Marriesh for his contribution to 18s slave BMS development. 
+
+I express my gratitude to Dr. Kaushal Jha, CEO of my center and co-guide, my guide Prof. Shankar Ram, and my mentor Dr. Sushant Mutagekar for their continuous support. I also extend my thanks to the **Center for Excellence in Energy and Telecommunication (CEET)** for providing the opportunity to develop this work. I am grateful to my ~~team~~ fam for their invaluable assistance and support throughout this project.
